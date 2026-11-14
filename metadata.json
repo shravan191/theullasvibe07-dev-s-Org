@@ -1,0 +1,6 @@
+{
+  "name": "UniAttend AI",
+  "description": "University Attendance Management ERP featuring Admin, Teacher, Student, and Parent portals, period-based session locking, automated attendance calculations, parent notifications, and AI face recognition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
